@@ -27,6 +27,3 @@ Search over vertex locations and thickness split to maximize `Cl/Cd` subject to 
 - If no feasible designs are found, widen the grid or relax step size to avoid skipping narrow feasible regions.
 - Keep `tu + tl = 0.1` enforced by construction as done in the script.
 
-## Citation
-This implementation follows the course assignment brief on supersonic double-wedge airfoil design using shock–expansion analysis. :contentReference[oaicite:0]{index=0}
-
